@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "34609823d157289a9378ff1aeffd7830"
+build_time: [1617953734, 151120000]
+inputs:
+  "/Users/lincolnnguyen/Desktop/ordertracking/ordertracking/PackageCell.swift": [1617953487, 468724109]
+  "/Users/lincolnnguyen/Desktop/ordertracking/ordertracking/ViewController.swift": [1617953725, 406400481]
+  "/Users/lincolnnguyen/Desktop/ordertracking/ordertracking/AppDelegate.swift": [1617937616, 596009017]
+  "/Users/lincolnnguyen/Desktop/ordertracking/ordertracking/SceneDelegate.swift": [1617937616, 615049937]

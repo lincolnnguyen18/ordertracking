@@ -1,0 +1,548 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SubmitInfoViewController"
+provides-nominal:
+- "13ordertracking24SubmitInfoViewControllerC"
+provides-member:
+- ["13ordertracking24SubmitInfoViewControllerC", ""]
+provides-dynamic-lookup:
+- "carrierInput"
+- "prepare"
+- "submitButton"
+- "trackNumInput"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "SubmitInfoViewController"
+- "TrackViewController"
+- "UIButton"
+- "UINavigationController"
+- "UIStoryboardSegue"
+- "UITextField"
+- "UIViewController"
+- !private "carrierInput"
+- !private "submitButton"
+- !private "trackNumInput"
+depends-member:
+- ["SK", ""]
+- !private ["So7CALayerC", "cornerRadius"]
+- !private ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "layer"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["So13CAMediaTimingP", "cornerRadius"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "carrierInput"]
+- !private ["s7CVarArgP", "cornerRadius"]
+- !private ["s7CVarArgP", "destination"]
+- !private ["s7CVarArgP", "layer"]
+- !private ["s7CVarArgP", "prepare"]
+- !private ["s7CVarArgP", "setTrackingNumAndCarrier"]
+- !private ["s7CVarArgP", "submitButton"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "topViewController"]
+- !private ["s7CVarArgP", "trackNumInput"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["Sl", ""]
+- ["SL", ""]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "carrierInput"]
+- !private ["s28CustomDebugStringConvertibleP", "cornerRadius"]
+- !private ["s28CustomDebugStringConvertibleP", "destination"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- !private ["s28CustomDebugStringConvertibleP", "prepare"]
+- !private ["s28CustomDebugStringConvertibleP", "setTrackingNumAndCarrier"]
+- !private ["s28CustomDebugStringConvertibleP", "submitButton"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "topViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "trackNumInput"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "layer"]
+- !private ["s17CustomReflectableP", "text"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "carrierInput"]
+- !private ["s23CustomStringConvertibleP", "cornerRadius"]
+- !private ["s23CustomStringConvertibleP", "destination"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- !private ["s23CustomStringConvertibleP", "prepare"]
+- !private ["s23CustomStringConvertibleP", "setTrackingNumAndCarrier"]
+- !private ["s23CustomStringConvertibleP", "submitButton"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "topViewController"]
+- !private ["s23CustomStringConvertibleP", "trackNumInput"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "layer"]
+- !private ["Se", "text"]
+- !private ["SE", "layer"]
+- !private ["SE", "text"]
+- ["SQ", ""]
+- !private ["SQ", "carrierInput"]
+- !private ["SQ", "cornerRadius"]
+- !private ["SQ", "destination"]
+- !private ["SQ", "layer"]
+- !private ["SQ", "prepare"]
+- !private ["SQ", "setTrackingNumAndCarrier"]
+- !private ["SQ", "submitButton"]
+- !private ["SQ", "text"]
+- !private ["SQ", "topViewController"]
+- !private ["SQ", "trackNumInput"]
+- !private ["SQ", "viewDidLoad"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s27ExpressibleByIntegerLiteralP", "IntegerLiteralType"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "layer"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- ["SH", ""]
+- !private ["SH", "carrierInput"]
+- !private ["SH", "cornerRadius"]
+- !private ["SH", "destination"]
+- !private ["SH", "layer"]
+- !private ["SH", "prepare"]
+- !private ["SH", "setTrackingNumAndCarrier"]
+- !private ["SH", "submitButton"]
+- !private ["SH", "text"]
+- !private ["SH", "topViewController"]
+- !private ["SH", "trackNumInput"]
+- !private ["SH", "viewDidLoad"]
+- ["s25LosslessStringConvertibleP", ""]
+- !private ["So8NSCodingP", "TrackViewController"]
+- ["So8NSCodingP", "UIButton"]
+- !private ["So8NSCodingP", "UINavigationController"]
+- ["So8NSCodingP", "UIStoryboardSegue"]
+- ["So8NSCodingP", "UITextField"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "carrierInput"]
+- !private ["So8NSCodingP", "cornerRadius"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "layer"]
+- ["So8NSCodingP", "prepare"]
+- ["So8NSCodingP", "setTrackingNumAndCarrier"]
+- ["So8NSCodingP", "submitButton"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "topViewController"]
+- ["So8NSCodingP", "trackNumInput"]
+- ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "TrackViewController"]
+- ["So26NSExtensionRequestHandlingP", "UIButton"]
+- !private ["So26NSExtensionRequestHandlingP", "UINavigationController"]
+- ["So26NSExtensionRequestHandlingP", "UIStoryboardSegue"]
+- ["So26NSExtensionRequestHandlingP", "UITextField"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- ["So26NSExtensionRequestHandlingP", "carrierInput"]
+- ["So26NSExtensionRequestHandlingP", "init"]
+- ["So26NSExtensionRequestHandlingP", "prepare"]
+- ["So26NSExtensionRequestHandlingP", "setTrackingNumAndCarrier"]
+- ["So26NSExtensionRequestHandlingP", "submitButton"]
+- !private ["So26NSExtensionRequestHandlingP", "topViewController"]
+- ["So26NSExtensionRequestHandlingP", "trackNumInput"]
+- ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "TrackViewController"]
+- ["So8NSObjectC", "UIButton"]
+- !private ["So8NSObjectC", "UINavigationController"]
+- ["So8NSObjectC", "UIStoryboardSegue"]
+- ["So8NSObjectC", "UITextField"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "carrierInput"]
+- !private ["So8NSObjectC", "cornerRadius"]
+- !private ["So8NSObjectC", "destination"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "layer"]
+- ["So8NSObjectC", "prepare"]
+- ["So8NSObjectC", "prepareForSegue"]
+- !private ["So8NSObjectC", "setTrackingNumAndCarrier"]
+- ["So8NSObjectC", "submitButton"]
+- !private ["So8NSObjectC", "text"]
+- !private ["So8NSObjectC", "topViewController"]
+- ["So8NSObjectC", "trackNumInput"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "TrackViewController"]
+- ["So8NSObjectP", "UIButton"]
+- !private ["So8NSObjectP", "UINavigationController"]
+- ["So8NSObjectP", "UIStoryboardSegue"]
+- ["So8NSObjectP", "UITextField"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "carrierInput"]
+- !private ["So8NSObjectP", "cornerRadius"]
+- !private ["So8NSObjectP", "destination"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "layer"]
+- ["So8NSObjectP", "prepare"]
+- ["So8NSObjectP", "prepareForSegue"]
+- ["So8NSObjectP", "setTrackingNumAndCarrier"]
+- ["So8NSObjectP", "submitButton"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "topViewController"]
+- ["So8NSObjectP", "trackNumInput"]
+- ["So8NSObjectP", "viewDidLoad"]
+- !private ["So14NSSecureCodingP", "cornerRadius"]
+- !private ["Sq", "layer"]
+- !private ["Sq", "text"]
+- ["ST", ""]
+- !private ["13ordertracking24SubmitInfoViewControllerC", "TrackViewController"]
+- ["13ordertracking24SubmitInfoViewControllerC", "UIButton"]
+- !private ["13ordertracking24SubmitInfoViewControllerC", "UINavigationController"]
+- ["13ordertracking24SubmitInfoViewControllerC", "UIStoryboardSegue"]
+- ["13ordertracking24SubmitInfoViewControllerC", "UITextField"]
+- ["13ordertracking24SubmitInfoViewControllerC", ""]
+- ["13ordertracking24SubmitInfoViewControllerC", "carrierInput"]
+- ["13ordertracking24SubmitInfoViewControllerC", "deinit"]
+- ["13ordertracking24SubmitInfoViewControllerC", "init"]
+- ["13ordertracking24SubmitInfoViewControllerC", "prepare"]
+- ["13ordertracking24SubmitInfoViewControllerC", "submitButton"]
+- ["13ordertracking24SubmitInfoViewControllerC", "trackNumInput"]
+- ["13ordertracking24SubmitInfoViewControllerC", "viewDidLoad"]
+- ["s16TextOutputStreamP", ""]
+- ["s20TextOutputStreamableP", ""]
+- !private ["13ordertracking19TrackViewControllerC", "setTrackingNumAndCarrier"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "layer"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "TrackViewController"]
+- ["So21UIAppearanceContainerP", "UIButton"]
+- !private ["So21UIAppearanceContainerP", "UINavigationController"]
+- ["So21UIAppearanceContainerP", "UIStoryboardSegue"]
+- ["So21UIAppearanceContainerP", "UITextField"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "carrierInput"]
+- ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "layer"]
+- ["So21UIAppearanceContainerP", "prepare"]
+- ["So21UIAppearanceContainerP", "setTrackingNumAndCarrier"]
+- ["So21UIAppearanceContainerP", "submitButton"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "topViewController"]
+- ["So21UIAppearanceContainerP", "trackNumInput"]
+- ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So8UIButtonC", "layer"]
+- !private ["So18UIContentContainerP", "TrackViewController"]
+- ["So18UIContentContainerP", "UIButton"]
+- !private ["So18UIContentContainerP", "UINavigationController"]
+- ["So18UIContentContainerP", "UIStoryboardSegue"]
+- ["So18UIContentContainerP", "UITextField"]
+- ["So18UIContentContainerP", ""]
+- ["So18UIContentContainerP", "carrierInput"]
+- ["So18UIContentContainerP", "init"]
+- ["So18UIContentContainerP", "prepare"]
+- ["So18UIContentContainerP", "setTrackingNumAndCarrier"]
+- ["So18UIContentContainerP", "submitButton"]
+- !private ["So18UIContentContainerP", "topViewController"]
+- ["So18UIContentContainerP", "trackNumInput"]
+- ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So32UIContextMenuInteractionDelegateP", ""]
+- !private ["So32UIContextMenuInteractionDelegateP", "layer"]
+- !private ["So32UIContextMenuInteractionDelegateP", "text"]
+- ["So9UIControlC", ""]
+- !private ["So9UIControlC", "layer"]
+- !private ["So9UIControlC", "text"]
+- !private ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "layer"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "layer"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "TrackViewController"]
+- ["So18UIFocusEnvironmentP", "UIButton"]
+- !private ["So18UIFocusEnvironmentP", "UINavigationController"]
+- ["So18UIFocusEnvironmentP", "UIStoryboardSegue"]
+- ["So18UIFocusEnvironmentP", "UITextField"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "carrierInput"]
+- ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "layer"]
+- ["So18UIFocusEnvironmentP", "prepare"]
+- ["So18UIFocusEnvironmentP", "setTrackingNumAndCarrier"]
+- ["So18UIFocusEnvironmentP", "submitButton"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "topViewController"]
+- ["So18UIFocusEnvironmentP", "trackNumInput"]
+- ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "layer"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "layer"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- ["So10UIKeyInputP", ""]
+- !private ["So10UIKeyInputP", "text"]
+- !private ["So24UILargeContentViewerItemP", ""]
+- !private ["So24UILargeContentViewerItemP", "layer"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- !private ["So22UINavigationControllerC", "topViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "TrackViewController"]
+- ["So30UIPasteConfigurationSupportingP", "UIButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "UINavigationController"]
+- ["So30UIPasteConfigurationSupportingP", "UIStoryboardSegue"]
+- ["So30UIPasteConfigurationSupportingP", "UITextField"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "carrierInput"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "layer"]
+- ["So30UIPasteConfigurationSupportingP", "prepare"]
+- ["So30UIPasteConfigurationSupportingP", "prepareForSegue"]
+- ["So30UIPasteConfigurationSupportingP", "setTrackingNumAndCarrier"]
+- ["So30UIPasteConfigurationSupportingP", "submitButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "topViewController"]
+- ["So30UIPasteConfigurationSupportingP", "trackNumInput"]
+- ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "TrackViewController"]
+- ["So11UIResponderC", "UIButton"]
+- !private ["So11UIResponderC", "UINavigationController"]
+- ["So11UIResponderC", "UIStoryboardSegue"]
+- ["So11UIResponderC", "UITextField"]
+- ["So11UIResponderC", ""]
+- ["So11UIResponderC", "carrierInput"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "layer"]
+- ["So11UIResponderC", "prepare"]
+- ["So11UIResponderC", "prepareForSegue"]
+- !private ["So11UIResponderC", "setTrackingNumAndCarrier"]
+- ["So11UIResponderC", "submitButton"]
+- !private ["So11UIResponderC", "text"]
+- !private ["So11UIResponderC", "topViewController"]
+- ["So11UIResponderC", "trackNumInput"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "TrackViewController"]
+- ["So30UIResponderStandardEditActionsP", "UIButton"]
+- !private ["So30UIResponderStandardEditActionsP", "UINavigationController"]
+- ["So30UIResponderStandardEditActionsP", "UIStoryboardSegue"]
+- ["So30UIResponderStandardEditActionsP", "UITextField"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "carrierInput"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "layer"]
+- ["So30UIResponderStandardEditActionsP", "prepare"]
+- ["So30UIResponderStandardEditActionsP", "prepareForSegue"]
+- ["So30UIResponderStandardEditActionsP", "setTrackingNumAndCarrier"]
+- ["So30UIResponderStandardEditActionsP", "submitButton"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "topViewController"]
+- ["So30UIResponderStandardEditActionsP", "trackNumInput"]
+- ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So20UIScrollViewDelegateP", ""]
+- ["So20UIScrollViewDelegateP", "setTrackingNumAndCarrier"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "layer"]
+- !private ["So16UIStateRestoringP", "TrackViewController"]
+- ["So16UIStateRestoringP", "UIButton"]
+- !private ["So16UIStateRestoringP", "UINavigationController"]
+- ["So16UIStateRestoringP", "UIStoryboardSegue"]
+- ["So16UIStateRestoringP", "UITextField"]
+- ["So16UIStateRestoringP", ""]
+- ["So16UIStateRestoringP", "carrierInput"]
+- ["So16UIStateRestoringP", "init"]
+- ["So16UIStateRestoringP", "prepare"]
+- ["So16UIStateRestoringP", "setTrackingNumAndCarrier"]
+- ["So16UIStateRestoringP", "submitButton"]
+- !private ["So16UIStateRestoringP", "topViewController"]
+- ["So16UIStateRestoringP", "trackNumInput"]
+- ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So17UIStoryboardSegueC", "destination"]
+- ["So21UITableViewDataSourceP", "setTrackingNumAndCarrier"]
+- ["So19UITableViewDelegateP", "setTrackingNumAndCarrier"]
+- !private ["So15UITextDraggableP", "text"]
+- !private ["So15UITextDroppableP", "text"]
+- !private ["So11UITextFieldC", "text"]
+- !private ["So11UITextInputP", ""]
+- !private ["So11UITextInputP", "text"]
+- ["So17UITextInputTraitsP", ""]
+- !private ["So17UITextInputTraitsP", "text"]
+- !private ["So34UITextPasteConfigurationSupportingP", ""]
+- !private ["So34UITextPasteConfigurationSupportingP", "text"]
+- !private ["So18UITraitEnvironmentP", "TrackViewController"]
+- ["So18UITraitEnvironmentP", "UIButton"]
+- !private ["So18UITraitEnvironmentP", "UINavigationController"]
+- ["So18UITraitEnvironmentP", "UIStoryboardSegue"]
+- ["So18UITraitEnvironmentP", "UITextField"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "carrierInput"]
+- ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "layer"]
+- ["So18UITraitEnvironmentP", "prepare"]
+- ["So18UITraitEnvironmentP", "setTrackingNumAndCarrier"]
+- ["So18UITraitEnvironmentP", "submitButton"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "topViewController"]
+- ["So18UITraitEnvironmentP", "trackNumInput"]
+- ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "TrackViewController"]
+- ["So23UIUserActivityRestoringP", "UIButton"]
+- !private ["So23UIUserActivityRestoringP", "UINavigationController"]
+- ["So23UIUserActivityRestoringP", "UIStoryboardSegue"]
+- ["So23UIUserActivityRestoringP", "UITextField"]
+- ["So23UIUserActivityRestoringP", ""]
+- ["So23UIUserActivityRestoringP", "carrierInput"]
+- ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "layer"]
+- ["So23UIUserActivityRestoringP", "prepare"]
+- ["So23UIUserActivityRestoringP", "prepareForSegue"]
+- ["So23UIUserActivityRestoringP", "setTrackingNumAndCarrier"]
+- ["So23UIUserActivityRestoringP", "submitButton"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "topViewController"]
+- ["So23UIUserActivityRestoringP", "trackNumInput"]
+- ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- ["So6UIViewC", ""]
+- !private ["So6UIViewC", "layer"]
+- !private ["So6UIViewC", "text"]
+- !private ["So16UIViewControllerC", "TrackViewController"]
+- ["So16UIViewControllerC", "UIButton"]
+- !private ["So16UIViewControllerC", "UINavigationController"]
+- ["So16UIViewControllerC", "UIStoryboardSegue"]
+- ["So16UIViewControllerC", "UITextField"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "carrierInput"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "prepare"]
+- !private ["So16UIViewControllerC", "setTrackingNumAndCarrier"]
+- ["So16UIViewControllerC", "submitButton"]
+- !private ["So16UIViewControllerC", "topViewController"]
+- ["So16UIViewControllerC", "trackNumInput"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "carrierInput"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cornerRadius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "destination"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "prepare"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setTrackingNumAndCarrier"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "submitButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "topViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "trackNumInput"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "carrierInput"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "cornerRadius"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "destination"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "layer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "prepare"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setTrackingNumAndCarrier"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "submitButton"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "topViewController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "trackNumInput"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "layer"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "layer"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- "SK"
+- !private "So7CALayerC"
+- !private "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "Sq"
+- "ST"
+- "13ordertracking24SubmitInfoViewControllerC"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "13ordertracking19TrackViewControllerC"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So32UIContextMenuInteractionDelegateP"
+- "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- "So10UIKeyInputP"
+- !private "So24UILargeContentViewerItemP"
+- !private "So22UINavigationControllerC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So20UIScrollViewDelegateP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- !private "So17UIStoryboardSegueC"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- !private "So11UITextFieldC"
+- !private "So11UITextInputP"
+- "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "So16UIViewControllerC"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "1efc30d2b8f7c4717a54665e04e9cb68"
